@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EXS.ERP/DesignTimeBuild
+/.vs/EXS.ERP/FileContentIndex
+/.vs/EXS.ERP/v17/TestStore/0
+*.v2
+*.suo
+/.vs/ProjectEvaluation
+/EXS.ERP.API/bin/Debug/net6.0
+/EXS.ERP.API/obj
+/EXS.ERP.Database/bin/Debug/net6.0
+/EXS.ERP.Database/obj
+/EXS.ERP.Integration/obj
+/EXS.ERP.Repository/bin/Debug/net6.0
+/EXS.ERP.Repository/obj
+/EXS.ERP.Service/bin/Debug/net6.0
+/EXS.ERP.Service/obj
+/EXS.ERP.Utilities/bin/Debug/net6.0
+/EXS.ERP.Utilities/obj
